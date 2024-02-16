@@ -37,7 +37,7 @@ The 'getent group' command lists all of the groups from databases stored in the 
 ### 3.) firewall
 ![fw](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/93f06c31-1969-48e7-8eb7-be28507f92fc)
 
-Used the 'sudo ufw status' command to check if the firewall is active and the 'ufw enable' to turn on the firewall. Then rechecked if the firewall is on.
+Used the 'sudo ufw status' command to check if the firewall is active and the 'ufw enable' command to turn on the firewall. Then rechecked if the firewall is on.
 
 ![fw2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/0343dbc1-d946-49df-95bf-740e7cb348ae)
 
