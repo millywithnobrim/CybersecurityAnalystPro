@@ -6,7 +6,7 @@ A collection of projects and hands-on labs performed to complete my IBM certific
 Hardening Linux
 
 ### Hardening Linux
-<br> This is where I learned to add users, groups, and secure my Linux terminal's vulnerabilities. </br>
+<br> This is where I learned Role Based Access Control to add users, groups, and secure my Linux terminal's vulnerabilities. </br>
 
 ### 1.) adduser
 ![linuxadduser](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/9731ad39-d69a-4a9c-85e2-bc92f1342a78)
@@ -37,7 +37,11 @@ The 'getent group' command lists all of the groups from databases stored in the 
 ### 3.) firewall
 ![fw](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/93f06c31-1969-48e7-8eb7-be28507f92fc)
 
+Used the 'sudo ufw status' command to check if the firewall is active and the 'ufw enable' to turn on the firewall. Then rechecked if the firewall is on.
+
 ![fw2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/0343dbc1-d946-49df-95bf-740e7cb348ae)
+
+
 
 ![fw3](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/075dbff3-71fe-4c50-9e50-ac5342b5a923)
 
