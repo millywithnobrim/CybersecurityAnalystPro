@@ -47,4 +47,5 @@ The 'sudo ufw verbose' command outputs the default firewal rules. It is currentl
 
 Finally, I used 'sudo ufw allow 22/tcp' and 'sudo ufw allow 80/tcp' to open and allow traffic to TCP ports 22 and 80 on my device. Port 22 allows remote devices to securely login to and communicate with a server via Secure Shell Protocol(ssh). Port 80 allows web browsing to work. Then I used 'sudo ufw deny 23' to close port 23 because although it allows remote login and communication with the server it doesnt encrypt data therefore it is best closed to keep my device more secure. I used 'verbose' again to ensure the new rules are active.
 
+Follow me on LinkedIn:
 <a href="https://www.linkedin.com/in/jamile2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
