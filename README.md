@@ -3,7 +3,8 @@ A collection of projects and hands-on labs performed to complete my IBM certific
 
 ## Table of Contents
 
-Hardening Linux
+Securing Linux
+Containers, Dockers, and Cloud Security Registry
 
 ### Hardening Linux
 <br> This is where I learned Role Based Access Control to add users, groups, and secure my Linux terminal's vulnerabilities. </br>
