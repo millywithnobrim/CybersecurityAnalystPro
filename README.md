@@ -37,4 +37,4 @@ Add additional information and confirm with 'y'. Otherwise 'n' to edit the enter
 
 ![fw3](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/075dbff3-71fe-4c50-9e50-ac5342b5a923)
 
-<a href= "www.linkedin.com/in/jamile2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img> </a>
+<a href= "www.linkedin.com/in/jamile2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img> </a>
