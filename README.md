@@ -41,8 +41,10 @@ Used the 'sudo ufw status' command to check if the firewall is active and the 'u
 
 ![fw2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/0343dbc1-d946-49df-95bf-740e7cb348ae)
 
-
+The 'sudo ufw verbose' command outputs the default firewal rules. It is currently blocking all incoming traffic so nothing can connect to my device but it allows all outgoing traffic so I can connect to any external device. Also routed traffic is disabled so I cant use my device as a router.
 
 ![fw3](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/075dbff3-71fe-4c50-9e50-ac5342b5a923)
+
+Finally, I used 'sudo ufw allow 22/tcp' and 'sudo ufw allow 80/tcp' to open and allow traffic to TCP ports 22 and 80 on my device. Port 22 allows remote devices to securely login to and communicate with a server via Secure Shell Protocol(ssh). Port 80 allows web browsing to work. Then I used 'sudo ufw deny 23' to close port 23 because although it allows remote login and communication with the server it doesnt encrypt data therefore it is best closed to keep my device more secure. I used 'verbose' again to ensure the new rules are active.
 
 <a href="https://www.linkedin.com/in/jamile2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
