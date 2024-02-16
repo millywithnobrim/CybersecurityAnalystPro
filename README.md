@@ -1,5 +1,5 @@
 # CybersecurityAnalystPro
-A collection of projects and hands-on labs performed during my certification.
+A collection of personal projects and hands-on labs performed during my certification.
 
 ## Table of Contents
 
