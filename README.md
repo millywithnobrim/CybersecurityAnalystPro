@@ -21,14 +21,18 @@ Enter a new password and retype the password when prompted.
 
 Add additional information and confirm with 'y'. Otherwise 'n' to edit the entered information.
 
-### 2.) groupadd
+### 2.) Manage user groups with groupadd
 ![usergroup](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/0f512787-2a41-4489-a752-815928cac9ff)
 
-
+Added a new group to the system with the command 'sudo groupadd testusers'. "testusers" is the name of the group.
 
 ![usergroup2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/af234d47-19d0-4eec-a550-b9188da2e46d)
 
+The 'sudo usermod -a -G testusers test' command modifies the user "test" and adds them to the "testusers" group. The '-a' flag adds a user to a group without removing the user from other groups. The '-G' flag indicates you will be moving a user to a group which is then followed by the group name the user is being moved to.
+
 ![usergroup3](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/9940f023-314b-4e31-8d52-ce430f6be290)
+
+The 'getent group' command lists all of the groups from databases stored in the system's text file. As you can see testusers group is displayed on the list.
 
 ### 3.) firewall
 ![fw](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/93f06c31-1969-48e7-8eb7-be28507f92fc)
