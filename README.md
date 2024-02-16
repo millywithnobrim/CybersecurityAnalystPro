@@ -1,12 +1,12 @@
 # CybersecurityAnalystPro
-A collection of projects and hands-on labs performed to complete my IBM certification.
+A collection of projects and hands-on labs performed during my certification.
 
 ## Table of Contents
 
 Securing Linux
 Containers, Dockers, and Cloud Security Registry
 
-### Hardening Linux
+### Securing Linux
 <br> This is where I learned Role Based Access Control to add users, groups, and secure my Linux terminal's vulnerabilities. </br>
 
 ### 1.) adduser
