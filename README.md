@@ -50,6 +50,32 @@ Finally, I used 'sudo ufw allow 22/tcp' and 'sudo ufw allow 80/tcp' to open and 
 
 ### Docker
 
+<img width="960" alt="Docker1" src="https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/25651c22-e19f-445b-9def-b1eda70fc341">
+
+![Docker2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/bdb19330-85e4-4889-99be-7f8434b3dd62)
+
+
+![Docker3](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/1f27c088-cf26-4774-a468-e704d0e06aa8)
+
+
+![Docker4](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/e05a88d4-dc2d-45cc-ab12-822687003501)
+
+
+
+![Docker5](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/83e95f9d-0e29-4ab5-95c7-909a287fc1f9)
+
+
+![Docker6](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/eedab87c-246f-4dc8-9440-e68b15d6b042)
+
+
+![Docker6 5](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/dbab1d35-a508-42d0-ae97-e4cc8232cf2b)
+
+![Docker7](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/0ef4cd65-0ec3-4643-a7a9-7fe82e8c9a11)
+
+![Docker8](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/7bb95d81-b561-4d40-b777-928cbb6cf87e)
+
+
+
 
 
 Follow me on LinkedIn:
