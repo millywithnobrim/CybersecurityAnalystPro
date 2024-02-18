@@ -4,7 +4,7 @@ A collection of personal projects and hands-on labs performed during my certific
 ## Table of Contents
 
 Securing Linux
-<br><a href="### Docker"> Docker </a></br>
+<br><a href="#Docker"> Docker </a></br>
 
 ### Securing Linux
 <br> This is where I learned Role Based Access Control to add users, groups, and secure my Linux terminal's vulnerabilities. </br>
