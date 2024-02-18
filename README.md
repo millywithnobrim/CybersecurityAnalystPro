@@ -52,6 +52,8 @@ Finally, I used 'sudo ufw allow 22/tcp' and 'sudo ufw allow 80/tcp' to open and 
 
 <img width="960" alt="Docker1" src="https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/25651c22-e19f-445b-9def-b1eda70fc341">
 
+Here I used 'ls' and 'docker images' to see if I have any images. Since I dont I pulled more first image using 'docker pull hello-world". 
+
 ![Docker2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/bdb19330-85e4-4889-99be-7f8434b3dd62)
 
 
