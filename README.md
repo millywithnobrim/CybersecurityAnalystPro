@@ -56,13 +56,17 @@ Here I used 'ls' and 'docker images' to see if I have any images. Since I dont I
 
 ![Docker2](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/bdb19330-85e4-4889-99be-7f8434b3dd62)
 
+Used 'docker run hello-world' to run the image as a container.
+
+Build Docker Image
 
 ![Docker3](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/1f27c088-cf26-4774-a468-e704d0e06aa8)
 
+To build a docker image I ran 'docker build . -t myimage:v1'.
 
 ![Docker4](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/e05a88d4-dc2d-45cc-ab12-822687003501)
 
-
+Now I see my image as <em>myimage v1</em>. Next I ran the image as a container with 'docker run -dp 8080:8080 myimage:v1' which showed up as a string of code. Then I pinged it with 'curl localhost:8080'.
 
 ![Docker5](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/83e95f9d-0e29-4ab5-95c7-909a287fc1f9)
 
