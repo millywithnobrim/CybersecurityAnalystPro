@@ -80,7 +80,7 @@ Push image to cloud registry
 
 ![Docker7](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/0ef4cd65-0ec3-4643-a7a9-7fe82e8c9a11)
 
-<strong>export MY_NAMESPACE=sn-labs-$USERNAME</strong> exports my namespace so it can be used later. <strong>docker tag myimage:v1 us.icr.io/$MY_NAMESPACE/hello-world:1</strong> tages the image so it can be pushed to the cloud container registry. <strong>docker push us.icr.io/$MY_NAMESPACE/hello-world:1</strong> actually pushes the image to the registry.
+<strong>export MY_NAMESPACE=sn-labs-$USERNAME</strong> exports my namespace so it can be used later. <strong>docker tag myimage:v1 us.icr.io/$MY_NAMESPACE/hello-world:1</strong> tages the image so it can be pushed to the cloud container registry. <strong>docker push us.icr.io/$MY_NAMESPACE/hello-world:1</strong> actually pushes the image to the registry. Then I checked if the image was pushed with <strong>ibmcloud cr images</strong>.
 
 ![Docker8](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/7bb95d81-b561-4d40-b777-928cbb6cf87e)
 
