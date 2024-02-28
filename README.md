@@ -84,7 +84,7 @@ Push image to cloud registry
 
 ![Docker8](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/7bb95d81-b561-4d40-b777-928cbb6cf87e)
 
-
+<strong>ibmcloud cr images --restrict $MY_NAMESPACE</strong> is another way to see if the image was push except this command shows images in a specified namespace.
 
 
 
