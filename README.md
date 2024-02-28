@@ -66,13 +66,17 @@ To build a docker image I ran 'docker build . -t myimage:v1'.
 
 ![Docker4](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/e05a88d4-dc2d-45cc-ab12-822687003501)
 
-Now I see my image as <em>myimage v1</em>. Next I ran the image as a container with 'docker run -dp 8080:8080 myimage:v1' which showed up as a string of code. Then I pinged it with 'curl localhost:8080'.
+Now I see my image as <em>myimage v1</em>. Next I ran the image as a container with 'docker run -dp 8080:8080 myimage:v1' which showed up as a string of code. Then I pinged it with 'curl localhost:8080'. Now I see its running successfully.
+
+Push image to cloud registry
 
 ![Docker5](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/83e95f9d-0e29-4ab5-95c7-909a287fc1f9)
 
+<strong>ibmcloud target</strong> gives info on the account I'm on. <strong>ibmcloud cr namespaces</strong> checks the namespaces I have access to. 
 
 ![Docker6](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/eedab87c-246f-4dc8-9440-e68b15d6b042)
 
+<strong>ibmcloud cr region-set us-south</strong> ensures I target the region connected to my cloud account. Which is in this case us-south. Then I logged in with <strong>ibmcloud cr login</strong>.
 
 ![Docker6 5](https://github.com/millywithnobrim/CybersecurityAnalystPro/assets/82410132/dbab1d35-a508-42d0-ae97-e4cc8232cf2b)
 
